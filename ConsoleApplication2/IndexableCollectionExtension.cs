@@ -8,7 +8,7 @@ using System.Text;
 using System.Reflection;
 using System.Reflection.Emit;
 
-namespace i4o
+namespace i4o.old
 {
     public static class IndexableCollectionExtension
     {

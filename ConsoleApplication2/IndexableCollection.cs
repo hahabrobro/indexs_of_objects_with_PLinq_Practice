@@ -9,7 +9,7 @@ using System.Reflection;
 using System.Reflection.Emit;
 
 [assembly: CLSCompliant(true)]
-namespace i4o
+namespace i4o.old
 {
 
     public class IndexableCollection<T> : Collection<T>

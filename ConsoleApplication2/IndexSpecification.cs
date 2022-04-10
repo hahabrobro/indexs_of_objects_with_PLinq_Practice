@@ -2,7 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Linq.Expressions;
 
-namespace i4o
+namespace i4o.old
 {
     public class IndexSpecification<T>
     {

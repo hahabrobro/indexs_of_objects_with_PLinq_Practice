@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 
-namespace i4o
+namespace i4o.old
 {
     static class ExpressionHelper
     {
